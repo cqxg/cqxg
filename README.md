@@ -24,5 +24,5 @@ For over 6 years, I have been committed to developing reliable, high-quality app
   ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=00D8FF&color=000)
   ![Postgresql](https://img.shields.io/badge/-Postgres-090909?style=for-the-badge&logo=postgresql&logoColor=90ccf6&color=000)
   ![MongoDB](https://img.shields.io/badge/-Mongo-090909?style=for-the-badge&logo=MongoDB&logoColor=4EB03F&color=000)
-  ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F16625&color=22272e)
+  ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F16625&color=000)
 
