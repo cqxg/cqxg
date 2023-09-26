@@ -13,6 +13,7 @@ For over 6 years, I have been committed to developing reliable, high-quality app
   ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D&color=000000)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=017ACC&color=000000)
   ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=00D8FF&color=000000)
+  ![Next](https://img.shields.io/badge/-Next-090909?style=for-the-badge&logo=Next.js&logoColor=fff&color=000000)
   ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=9371CB&color=000000)
   ![MobX](https://img.shields.io/badge/-MobX-090909?style=for-the-badge&logo=MobX&logoColor=#df5d10&color=000000)
   ![NodeJS](https://img.shields.io/badge/-Node-090909?style=for-the-badge&logo=Node.js&logoColor=6BBF47&color=000000)
