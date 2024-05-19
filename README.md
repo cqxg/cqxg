@@ -2,6 +2,7 @@
 
 🌍  I'm based in Gdańsk, Poland  
 🖥️  Visit my website: https://ihar-ivaniuk.com  
+📸 Instagram: https://www.instagram.com/ihar.ivaniuk  
 ✉️  You can contact me at ihar.o.ivaniuk@gmail.com or [linkedIn](https://www.linkedin.com/in/ihar-ivaniuk/)  
 
 I love technology and get genuinely excited about innovations.
