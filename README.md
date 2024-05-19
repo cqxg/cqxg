@@ -6,7 +6,7 @@
 ✉️  You can contact me at ihar.o.ivaniuk@gmail.com or [linkedIn](https://www.linkedin.com/in/ihar-ivaniuk/)  
 
 I love technology and get genuinely excited about innovations.
-For over 6 years, I have been committed to developing reliable, high-quality applications and services. I strongly believe in collaboration and sharing ideas to foster continuous improvement and shape the future.
+For over 7 years, I have been committed to developing reliable, high-quality applications and services. I strongly believe in collaboration and sharing ideas to foster continuous improvement and shape the future.
 
 ### Technologies and Tools
   ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=F16625&color=000)
